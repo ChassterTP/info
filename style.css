@@ -4,4 +4,8 @@ body{
 }
 header{
   background-image: linear-gradient(black, darkslategray);
+  height: 30px;
+}
+a {
+  height: 100%;
 }
